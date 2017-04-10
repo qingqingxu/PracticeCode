@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PracticeCode
 
 ##Chapter 1
@@ -16,3 +17,6 @@
 * SingleNumberI.java
 * TwoSum.java
 * TwoSumI.java
+=======
+# PracticeCode
+>>>>>>> branch 'master' of https://github.com/xqqgithub/PracticeCode.git

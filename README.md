@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PracticeCode
 
 ##Chapter 1

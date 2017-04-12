@@ -1,5 +1,6 @@
 package com;
 
+import java.util.Calendar;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -12,6 +13,11 @@ public class Test {
 
 //	int a = 1;
 	public static void main(String[] args) {
+		Calendar calendar = Calendar.getInstance();
+		calendar.set(Calendar.YEAR, 2016);
+		calendar.set(Calendar.MONTH, 8);
+		calendar.set(Calendar.DAY_OF_MONTH, 3);
+		System.out.println(((int)(Calendar.getInstance().getTime().getTime()/1000)-(int)(calendar.getTime().getTime()/1000))/3600/24);
 //		Test test = new Test();
 //		test.test();
 //		System.out.println(-test.a);

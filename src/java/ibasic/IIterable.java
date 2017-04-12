@@ -1,18 +1,16 @@
-package java.basic;
+package java.ibasic;
 
-import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Map;
 
 public class IIterable {
 
 	public static void main(String[] args) {
 		
-		/*for (char c : new MyIterable()) {
+		for (char c : new MyIterable()) {
 			System.out.println(c);
-		}*/
+		}
 	}
-	/*static class MyIterable implements Iterable<Character>{
+	static class MyIterable implements Iterable<Character>{
 
 		@Override
 		public Iterator<Character> iterator() {
@@ -34,7 +32,7 @@ public class IIterable {
 			};
 		}
 		
-	}*/
+	}
 }
 
 

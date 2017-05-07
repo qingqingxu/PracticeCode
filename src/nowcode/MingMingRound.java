@@ -1,4 +1,4 @@
-package nowcode.huawei;
+package nowcode;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,7 +12,7 @@ public class MingMingRound {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		
+		System.out.println(Long.MAX_VALUE);
 		while(sc.hasNext()){
 			Set<Integer> set = new HashSet<>();
 			int n = sc.nextInt();

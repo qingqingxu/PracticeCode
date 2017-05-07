@@ -1,6 +1,11 @@
 package bigfile;
 
 
+/**
+ * 效率不好，还没有单文件直接处理快，也不知道问题到底出在哪 ？？？
+ * @author XuQingQing
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {

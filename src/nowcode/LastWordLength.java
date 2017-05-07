@@ -1,4 +1,4 @@
-package nowcode.huawei;
+package nowcode;
 
 import java.util.Scanner;
 

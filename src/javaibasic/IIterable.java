@@ -1,4 +1,4 @@
-package java.ibasic;
+package javaibasic;
 
 import java.util.Iterator;
 
